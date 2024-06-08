@@ -1,0 +1,105 @@
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\Database1.mdf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\Database1_log.ldf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\EntityFramework.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\EntityFramework.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\bin\Debug\System.Data.SQLite.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.csproj.Up2Date
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11\Lab11\obj\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\Database1.mdf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\Database1_log.ldf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\EntityFramework.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\EntityFramework.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\bin\Debug\System.Data.SQLite.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.csproj.Up2Date
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11 — копия\Lab11\obj\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\Database1.mdf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\Database1_log.ldf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\EntityFramework.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\EntityFramework.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\bin\Debug\System.Data.SQLite.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.csproj.Up2Date
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v3\Lab11\obj\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\Database1.mdf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\Database1_log.ldf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\EntityFramework.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\EntityFramework.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\bin\Debug\System.Data.SQLite.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.csproj.Up2Date
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v5 — копия\Lab11\obj\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\Database1.mdf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\Database1_log.ldf
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\EntityFramework.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\EntityFramework.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\bin\Debug\System.Data.SQLite.xml
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.csproj.Up2Date
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.exe
+C:\Users\Monolit\Desktop\ООП\ЛР\Lab11v7\Lab11\obj\Debug\Lab11.pdb
